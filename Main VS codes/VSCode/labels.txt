@@ -1,0 +1,5 @@
+0 Paper
+1 Rock
+2 Scissors
+3 Thumbs_up
+4 Up
